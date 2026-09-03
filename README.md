@@ -1,1 +1,0 @@
-# A-identifica-o-e-otimiza-o-de-gargalos-em-processos-log-sticos-de-carga-e-descarga.
